@@ -21,7 +21,7 @@ A modern React application that generates interactive quizzes on any topic using
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-quiz-generator.git
+   git clone https://github.com/adityajanjanam/ai-quiz-generator.git
    cd ai-quiz-generator
    ```
 
